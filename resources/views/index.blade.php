@@ -68,7 +68,7 @@
             </ul>
           </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="#about">Yuk Gabung</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -94,7 +94,7 @@
           </div>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/Frame 2.png" class="img-fluid" alt="">
+          <img src="assets/img/hero-img.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
